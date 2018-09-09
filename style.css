@@ -1,10 +1,17 @@
 body{
+<<<<<<< HEAD
   background-image: url("black.jpeg");
   height: 200px;
   float: none;
 }
 h1{
   background-image: url("vert.jpg");
+=======
+  background-color: #DAC79C;
+}
+h1{
+  background-color: maroon;
+>>>>>>> 319cceec326bb43db5452008caa8614679986ecf
   float: none;
   text-align: center;
   color:white;
@@ -12,6 +19,7 @@ h1{
   font-style: oblique;
   height: auto;
   margin-top:-6px;
+<<<<<<< HEAD
   height: 180px;
 }
 .text{
@@ -29,6 +37,16 @@ h1{
 p strong{
   text-align: center;
   font-size: 50px;
+=======
+  height: 80px;
+}
+.text{
+  text-align: center;
+}
+p strong{
+  text-align: center;
+  font-size: 30px;
+>>>>>>> 319cceec326bb43db5452008caa8614679986ecf
   font-style: italic;
   color: #A9A9A9;
 }
@@ -38,14 +56,21 @@ a {
 }
 img{
   float: right;
+<<<<<<< HEAD
   margin-top: 40px;
   height: 280px;
   width: 300px;
   border-radius: 8px;
+=======
+  margin-top: 30px;
+  height: 500px;
+  width: 300px;
+>>>>>>> 319cceec326bb43db5452008caa8614679986ecf
 }
 #text1{
   font-size: 20px;
   text-align: center;
+<<<<<<< HEAD
   background-color: #DAC79C;
 } 
 #text3{
@@ -117,4 +142,9 @@ h1 strong{
   background-color: #DAC79C;
   margin-top: 40px;
   height: 90px;
+=======
+}
+.text3{
+  text-align: center;
+>>>>>>> 319cceec326bb43db5452008caa8614679986ecf
 }
