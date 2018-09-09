@@ -1,6 +1,7 @@
 body{
   background-image: url("black.jpeg");
   height: 200px;
+  float: none;
 }
 h1{
   background-image: url("vert.jpg");
@@ -110,4 +111,10 @@ h1 strong{
  margin-top: 40px; 
  text-align: center; 
  text-shadow: 0 1px 1px #fff;
+}
+.text5{
+  text-align: center;
+  background-color: #DAC79C;
+  margin-top: 40px;
+  height: 90px;
 }
